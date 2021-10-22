@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todays-plans-react/static/css/main.d393161c.chunk.css",
+    "main.js": "/todays-plans-react/static/js/main.5a9eb9c5.chunk.js",
+    "main.js.map": "/todays-plans-react/static/js/main.5a9eb9c5.chunk.js.map",
+    "runtime-main.js": "/todays-plans-react/static/js/runtime-main.131008e8.js",
+    "runtime-main.js.map": "/todays-plans-react/static/js/runtime-main.131008e8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/todays-plans-react/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.1d044ef2.chunk.js": "/todays-plans-react/static/js/2.1d044ef2.chunk.js",
+    "static/js/2.1d044ef2.chunk.js.map": "/todays-plans-react/static/js/2.1d044ef2.chunk.js.map",
+    "static/js/3.98f92880.chunk.js": "/todays-plans-react/static/js/3.98f92880.chunk.js",
+    "static/js/3.98f92880.chunk.js.map": "/todays-plans-react/static/js/3.98f92880.chunk.js.map",
+    "index.html": "/todays-plans-react/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/todays-plans-react/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.d393161c.chunk.css.map": "/todays-plans-react/static/css/main.d393161c.chunk.css.map",
+    "static/js/2.1d044ef2.chunk.js.LICENSE.txt": "/todays-plans-react/static/js/2.1d044ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.131008e8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.1d044ef2.chunk.js",
+    "static/css/main.d393161c.chunk.css",
+    "static/js/main.5a9eb9c5.chunk.js"
+  ]
+}
